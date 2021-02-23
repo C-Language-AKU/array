@@ -1,0 +1,8 @@
+	Write a program using the following steps.
+1- Declare a constant n (in this case we use n =5).
+2- Declare an array T made of n integers.
+3- Ask the user for the elements of the array T.
+4- Write a function to find the largest value in the array.
+5- Write a function to calculate the sum of all the values in the array.
+6- Write a function to print for the user the numbers of the array from the smallest to the largest.
+7- Call all the functions above and print the results.
